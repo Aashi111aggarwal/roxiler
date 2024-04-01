@@ -1,0 +1,24 @@
+.transactions-statistics {
+    padding: 20px;
+    background-color: yellow;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  .transactions-statistics label {
+    font-weight: bold;
+  }
+  
+  .transactions-statistics select {
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-right: 10px;
+  }
+  
+  .transactions-statistics p {
+    margin: 5px 0;
+  }
+
+  
